@@ -10,7 +10,7 @@ from sklearn.calibration import CalibratedClassifierCV
 from sklearn.metrics import roc_curve, auc, accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 
 # Title
-st.title("Hybrid PONV Machine Learning Algorithm")
+st.title("Hybrid PONV Machine Learning Algorithm [Alpha 2.0]")
 st.subheader("Department of Pharmacology, MKCG Medical College and Hospital")
 st.markdown("<small>Made by- Dr Nabyendu Biswas</small>", unsafe_allow_html=True)
 
